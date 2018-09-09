@@ -139,5 +139,9 @@ The things the grading code is looking for are:
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
+## My Particle Filter Output
+
+![particle-filter-success](https://github.com/johangenis/CarND-Kidnapped-Vehicle-Project/blob/master/KidnappedVehicleParticleFilterSuccess.png)
+
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
